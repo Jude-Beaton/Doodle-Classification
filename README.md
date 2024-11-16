@@ -1,4 +1,6 @@
 # My Implementation of the Doodle Classsifier tutorial by The Coding Train
+![doodle](https://github.com/user-attachments/assets/b52398dd-36ce-4778-96ff-417aa146333f)
+
 ## Inspiration:
 This was code that I wrote following this tutorial from The Coding Train on YouTube (https://youtu.be/pqY_Tn2SIVA?si=EPuXsJADQlAsMxzd). I wanted to learn about how neural networks were made and this tutorial and other neural network related videos from the same creator, explained a lot of the maths and showed how to implement it in p5js.
 
